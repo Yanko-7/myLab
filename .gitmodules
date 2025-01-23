@@ -1,0 +1,6 @@
+[submodule "lessons"]
+	path = lessons
+	url = https://gitlab.com/ssv/lessons.git
+[submodule "OCCT_NSD"]
+	path = OCCT_NSD
+	url = git@github.com:Yanko-7/OCCT_NSD.git
